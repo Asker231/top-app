@@ -3,7 +3,7 @@ import {JSX} from "react";
 
 const App = ():JSX.Element=>{
         return <div>
-            Hello World
+            Hello World!
         </div>
 }
 
